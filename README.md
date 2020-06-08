@@ -1,4 +1,6 @@
 # Face_recognition_security_system_using_deep_learning
+Clone the repo and run the .py file using python 3.7 or above.
+
 1. Create datasets 
   ----------run build_face_dataset.py
 

@@ -4,3 +4,5 @@ os
 cv2
 imutils
 pickle
+argparse
+scikit-learn
